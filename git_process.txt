@@ -1,0 +1,10 @@
+Open terminal.
+Go to github.com and log into your account.
+Type in "git clone --config="http.proxy=http://username:password@proxy:port" https://github.com/url" Replace the username and password with your own username and password from github.com. Type this into terminal. git clone your repository by clicking enter after you have written all this down.
+In terminal, type in ls (this lists all the files).
+Next, type in cd filename (replace filename with your own file name, this opens your file).
+Then, type in gedit filename (replace filename with your own filename, this opens the text editing program).
+After editing your text in gedit, click "Save" seen above the page, then go to "File" and click "Close."
+In terminal, type in git add filename (replace filename with your own filename).
+Next, type in git commit -m "the commit message" (change the content inside the quotation marks to whatever you have modified your file to, this saves your repository).
+Then, type in git push (it will ask you for your username and password you you use to log into github - when you type in your password, be very careful because it will not show up on the screen - this pushes your repository into github.com).
