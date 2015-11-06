@@ -1,1 +1,5 @@
 ls, cd, gedit, git (git add, git commit, git push)
+
+sftp> lea1711@cmis-hsteacher
+      password:
+(ls, !ls, ls *.txt put -filename-)
