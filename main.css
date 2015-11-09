@@ -1,0 +1,16 @@
+h1{
+	color: #FF9999;
+	font-family: Impact;
+	font-size: 45px;
+}
+h2{
+	color: #ff7f66;
+	font-size: 30px;
+}
+footer{
+	color: blue;
+	border-style: outset;
+}
+body{
+	background-color: #F0F0F0;
+}
