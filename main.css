@@ -1,16 +1,42 @@
 h1{
 	color: #FF9999;
 	font-family: Impact;
-	font-size: 45px;
+	font-size: 70px;
+	background-color: #E0E0E0;
+	border-style: dotted;
+	text-align: center;
+	text-decoration: underline;
 }
 h2{
-	color: #ff7f66;
+	color: #FF6699;
 	font-size: 30px;
+	font-family: Arial;
+	background-color: #D8D8D8;
+	border-style: inset;
+	font-weight: bold;
+	border-color: #0099CC;
+	line-height: 2;
 }
 footer{
 	color: blue;
 	border-style: outset;
+	font-family: Times New Roman;
+	background-color: #F8F8F8;
+	font-size: 25px;
+	font-weight: 900;
+}
+p{
+	background-color: #F0F0F0;
+	font-family: Times New Roman;
+	font-size: 30px;
+	color: black;
+	border-style: solid;
+	font-variant: small-caps;
+	border-color: #00CCFF;
 }
 body{
-	background-color: #F0F0F0;
-}
+	background-color: #CCFFFF;
+	border: 7px solid;
+	border-color: white;
+	border-right-color: #CCFFFF;
+	border-left-color: #CCFFFF;
