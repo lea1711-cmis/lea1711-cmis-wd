@@ -1,0 +1,62 @@
+h1{
+		color: yellow;
+		font-family: Impact;
+		font-style: italic;
+		font-size: 35px;
+		background-color: #663366;
+		text-align: left;
+		border-right-style: solid;
+		border-right-color: yellow;
+		border-right-width: 15px;
+}
+p{
+		color: blue;
+		font-family: Impact;
+		font-size: 17px;
+		font-style: italic;
+		background-color: red;
+		border-bottom-style: dashed;
+		border-color: yellow;
+		border-width: 10px;
+		border-right-color: red;
+}
+h2{
+		color: #663366;
+		background-color: yellow;
+		border-top-style: dashed;
+		border-width: 2px;
+		border-color: #663366;
+}
+main{
+		border-left-color: red;
+		border-right-color: blue;
+		border-left-width: 7px;
+		border-right-width: 6px;
+		border-style: solid;
+		border-top-color: white;
+		border-bottom-color: white;
+}
+h3{
+		border-bottom-style: dotted;
+		border-color: yellow;
+		color: yellow;
+		background-color: #339933;
+		border-width: 4px;
+}
+h4{
+		color: blue;
+		font-size: 14px;
+}
+footer{
+		color: blue;
+		font-size: 17px;
+		border-left-color: #FF9900;
+		border-right-color: #FF9900;
+		border-left-style: groove;
+		border-right-style: groove;
+		border-width: 11px;
+		border-top-color: black;
+		border-bottom-color: white;
+		border-top-style: dotted;
+		border-top-width: 1px;
+
