@@ -1,0 +1,16 @@
+h1{
+	border: groove 10px;
+	border-color: #33FFFF;
+	margin: 30px;
+	padding: auto;
+	width: 300px;
+	height: auto;
+}
+h2{
+	border-style: double;
+	border-color: #CCCCFF;
+	margin: 30px;
+	padding: 5px;
+	width: 200px;
+	height: auto;
+}
