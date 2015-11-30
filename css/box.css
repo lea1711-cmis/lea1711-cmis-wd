@@ -1,16 +1,32 @@
 h1{
-	border: groove 10px;
 	border-color: #33FFFF;
+	border: groove 10px;
 	margin: 30px;
-	padding: auto;
-	width: 300px;
+	padding: 5px;
+	width: auto;
 	height: auto;
 }
-h2{
+header > h2{
+	background-color: #99FFFF;
 	border-style: double;
 	border-color: #CCCCFF;
 	margin: 30px;
 	padding: 5px;
-	width: 200px;
-	height: auto;
+	width: 350px;
+	height: 60px;
 }
+h1 ~ h2{
+	color: #FF99CC;
+	border-left-style: double;
+	border-right-style: double;
+	border-right-color: #99FFCC;
+	border-left-color: #99FFCC;
+}
+main ol{
+	color: #FFCC99;
+	font-size: 20px;
+	font-family: Times New Roman;
+}
+
+
+	
