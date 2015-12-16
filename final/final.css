@@ -1,2 +1,55 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:600);
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+nav{
+float: left;
+width: 200px;
+border-style: solid;
+border-color: #6699FF;
+}
+main{
+margin-left: 230px;
+}
+img{
+height: 350px;
+width: 400px;
+float: left;
+margin: 10px;
+}
+p{
+border-color: #CC66CC;
+border-style: solid;
+margin: 10px;
+height: 370px;
+font-size: 25px;
+font-family: 'Raleway', sans-serif;
+color: #66CCCC;
+}
+table{
+border-style: solid;
+border-color: #6699FF;
+}
+footer p{
+border-style: solid;
+border-color: #6699FF;
+height: 30px;
+}
+h2{
+font-family: 'Poiret One', cursive;
+color: #FF66CC;
+font-size: 45px;
+}
 h1{
-
+font-family: 'Poiret One', cursive;
+color: #FF66CC;
+font-size: 60px;
+border-style: outset;
+border-color: #663399;
+}
+table th{
+color: #3399CC;
+}
+h3{
+font-family: 'Raleway', sans-serif;
+color: #663399;
+font-size: 30px;
+}
